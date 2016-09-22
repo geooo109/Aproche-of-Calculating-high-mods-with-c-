@@ -57,7 +57,6 @@ int solution(){
 		//mod=recursion(2,power);
 		//mod=mod%multthree;
 		//printf("mod -> %llu \n\n\n",mod);
-		//printf("POWERCALCULATERO %llu \n\n\n\n\n",powercalculator(y,power));
 		printf("n = %d , mod = %llu \n",i,mod);
 		multthree*=3;
 		//printf("multthree -> %llu \n\n\n",multthree);
