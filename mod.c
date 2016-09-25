@@ -50,7 +50,7 @@ int solution(){
 		power=20*multiten;
 		//printf("power -> %llu \n",power);
 		/*iterative solution*/
-		mod=pr(43,power,multthree);
+		mod=pr(2,power,multthree);
 
 
 		/*recursive solution we have an overflow here underconstruction*/
